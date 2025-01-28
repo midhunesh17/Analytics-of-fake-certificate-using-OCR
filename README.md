@@ -19,5 +19,5 @@ This project is licensed under the MIT License.
 go Copy code
 
 ## requirements.txt
--pytesseract
--opencv-python
+- pytesseract
+- opencv-python
